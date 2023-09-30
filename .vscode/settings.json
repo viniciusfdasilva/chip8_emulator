@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "emulator.h": "c",
+        "stdnoreturn.h": "c"
+    }
+}
